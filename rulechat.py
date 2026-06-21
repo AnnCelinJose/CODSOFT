@@ -26,7 +26,7 @@ while True:
         print("Softchat: You're welcome!")
     elif "weather" in user:
         print("Softchat: I cannot check live weather, but it's always a good idea to carry an umbrella if rain is expected!")
-    elif "your creator" in user or "who made you" in user:
+    elif "your creator" in user or "who made you" in user or "who craeted you":
         print("Softchat: I was created by Ann Celin Jose as part of a CodSoft AI internship project.")
 
     elif user == "bye":
