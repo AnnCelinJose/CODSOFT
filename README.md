@@ -9,7 +9,7 @@ This repository contains the projects completed during my CodSoft Artificial Int
 
 ## Technologies Used
 - Python
-- Tkinter (if used)
+- Tkinter 
 - Pandas
 - Scikit-learn
 - Object-Oriented Programming
